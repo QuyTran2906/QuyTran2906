@@ -4,7 +4,7 @@
 - 🧑‍🤝‍🧑 I'm looking to participating on Coding Challenge Contest. ❤️‍🔥
 - 🌳 I'm currently learning a bit Chinese. 🤘
 - 🏓 Ping Pong is my favourite sport 😘
-- I'm more than willing to get to know you my pookies. 
+- 🫶 I'm more than willing to get to know you my pookies. 💋
 
 
 <picture>
