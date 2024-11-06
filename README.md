@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/QuyTran2906/QuyTran2906/blob/a91281fcc3e6120792cb5c33c2ce69771588b4b7/461386596_966525001945937_4196646857514486153_n.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/QuyTran2906/QuyTran2906/blob/a91281fcc3e6120792cb5c33c2ce69771588b4b7/461289397_966550085276762_4855311939072317323_n.jpg">
+  <img alt="me and my pookies" src="https://github.com/QuyTran2906/QuyTran2906/blob/a91281fcc3e6120792cb5c33c2ce69771588b4b7/461175949_966531585278612_8933216479491350081_n.jpg">
 </picture>
