@@ -1,9 +1,9 @@
 #Hello my pookie pookie ✋
 ## I'm Quy Tran but you can call me Athena ('cause i think it's cute). 🤟
-- 📖 I'm currently majoring in Computer Science at University of Information and Technology (UIT), HCMVNU 🍀 
-- 🧑‍🤝‍🧑 I'm looking to participating on Coding Challenge Contest. ❤️‍🔥
-- 🌳 I'm currently learning a bit Chinese. 🤘
-- 🏓 Ping Pong is my favourite sport 😘
+- 📖 I'm currently majoring in **Computer Science** at **University of Information and Technology (UIT), HCMVNU** 🍀 
+- 🧑‍🤝‍🧑 I'm looking to participating on **Coding Challenge Contests**. ❤️‍🔥
+- 🌳 I'm currently learning a bit *Chinese*. 🤘
+- 🏓 **Ping Pong** is my favourite sport 😘
 - 😽 I'm more than willing to get to know you my pookies. 💋
 
 
